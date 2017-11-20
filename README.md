@@ -20,3 +20,6 @@ Frontend-Tools list for modern development
 #####Полезные ресурсы для обучения
 1.[https://coursehunters.net](https://coursehunters.net/)
 > Видеопортал бесплатных курсов. Здесь есть все
+
+2.[Async Await](https://www.youtube.com/watch?v=5kAPExqSZ1I)
+> ES2017 Асинхронные функции на русском языке
