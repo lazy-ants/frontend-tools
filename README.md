@@ -17,6 +17,6 @@ Frontend-Tools list for modern development
 - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?utm_source=chrome-app-launcher-info-dialog) - Удобно использовать для инспекции Redux приложения
   
 ### Ресурсы для обучения
-[https://coursehunters.net](https://coursehunters.net/) - Видеопортал бесплатных курсов. Здесь есть все
+- [https://coursehunters.net](https://coursehunters.net/) - Видеопортал бесплатных курсов. Здесь есть все
 
-[Async Await](https://www.youtube.com/watch?v=5kAPExqSZ1I) - ES2017 Асинхронные функции на русском языке
+- [Async Await](https://www.youtube.com/watch?v=5kAPExqSZ1I) - ES2017 Асинхронные функции на русском языке
