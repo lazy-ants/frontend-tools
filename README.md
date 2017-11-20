@@ -1,5 +1,4 @@
-# frontend-tools
-Frontend-Tools list for modern development
+# Frontend-Tools list for modern development
 
 ### Полезно знать
 
